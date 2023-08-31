@@ -1,0 +1,8 @@
+https://blog.csdn.net/qq451765271/article/details/84789260?ops_request_misc=&request_id=&biz_id=102&utm_term=Android%20checkbox%E8%87%AA%E5%8A%A8%E6%8D%A2%E8%A1%8C&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-84789260.142^v93^chatgptT3_1&spm=1018.2226.3001.4187
+
+https://blog.csdn.net/u012790647/article/details/16007559?ops_request_misc=&request_id=&biz_id=102&utm_term=Android%20%E5%A4%9A%E9%80%89%E6%A1%86%E8%87%AA%E5%8A%A8%E6%8D%A2%E8%A1%8C&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-3-16007559.142^v93^chatgptT3_1&spm=1018.2226.3001.4187
+
+自动换行checkbox：https://blog.csdn.net/ahuyangdong/article/details/107670990?ops_request_misc=&request_id=&biz_id=102&utm_term=Android%20%E5%A4%9A%E9%80%89%E6%A1%86%E8%87%AA%E5%8A%A8%E6%8D%A2%E8%A1%8C&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-8-107670990.142^v93^chatgptT3_1&spm=1018.2226.3001.4187
+https://github.com/ahuyangdong/SelectCustom/blob/master/app/src/main/res/values/styles.xml
+
+开关键：https://blog.csdn.net/leyang0910/article/details/130955425?ops_request_misc=&request_id=&biz_id=102&utm_term=Android%20%E5%BC%80%E5%85%B3%E9%94%AE&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-130955425.nonecase&spm=1018.2226.3001.4187

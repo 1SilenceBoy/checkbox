@@ -1,0 +1,7 @@
+boolean  enableAdb = (Settings.Secure.getInt(getContentResolver(), Settings.Secure.ADB_ENABLED,  0 ) >  0 );  
+    if  (!enableAdb) {  
+    Settings.Secure.putInt(getContentResolver(), Settings.Secure.ADB_ENABLED, 1 );  
+    } 
+
+< uses-permission   android:name = "android.permission.WRITE_SETTINGS"/>
+< uses-permission   android:name = "android.permission.WRITE_SECURE_SETTINGS"/>
